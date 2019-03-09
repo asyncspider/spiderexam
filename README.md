@@ -1,5 +1,4 @@
-# spiderexam
-爬虫工程师面试试题
+
 # spiderexam
  爬虫工程师面试常见问题。
  
@@ -10,10 +9,13 @@
  在 issues 处提交你的问题与答案即可，我会每天定时收录到文档中。
  
  我们应当做到题目与答案对应且尽可能的详尽，如：
+ ![image](https://github.com/asyncspider/spiderexam/blob/master/images/example.png) 
  
+ 最后，我们都希望得到一份完整的爬虫工程师面试考点:
  
+ ![image](https://github.com/asyncspider/spiderexam/blob/master/images/tree.png) 
  
- 最后，我们都希望得到一份完整的爬虫工程师面试考点，这需要我们大家一起努力。如果你想加入到 Github 白名单，请联系 asyncins@aliyun.com
+ 这需要我们大家一起努力。如果你想加入到 Github 白名单，请联系 asyncins@aliyun.com
  
  
  
