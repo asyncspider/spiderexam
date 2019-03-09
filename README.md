@@ -14,7 +14,7 @@
  在 issues 处提交你的问题与答案即可，提交格式为：
 
 ```
-Question:Title - [auth]
+Question:Title - [提供者信息]
 
 Answer:
 
@@ -22,7 +22,7 @@ Answer:
 
 例如：
 
-Question:is 和 == 的区别 - [auth:AsyncIns]
+Question:is 和 == 的区别 - [AsyncIns]
 
 Answer：is 表示的是对象标示符（object identity），而 == 表示的是相等（equality）。
 is 的作用是用来检查对象的标示符是否一致，也就是比较两个对象在内存中的地址是否一样，而 == 是用来检查两个对象是否相等。但是为了提高系统性能，对于较小的字符串 Python 会保留其值的一个副本，当创建新的字符串的时候直接指向该副本即可。如：
@@ -32,7 +32,7 @@ b = 8
 a is b
 ```
 
-Question:打印输出当前文件所在目录路径 - [auth:德玛西亚之翼-奎因]
+Question:打印输出当前文件所在目录路径 - [德玛西亚之翼-奎因]
 
 Answer：
 ```
